@@ -1,0 +1,17 @@
+MIDlet-Name: Ramolauncher
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Rajamobil Developer
+MIDlet-Jar-URL: Ramolauncher.jar
+MIDlet-Jar-Size: 5533
+MIDlet-Description: Aplikasi Smartphone Ramo
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BBLauncher,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: Ramolauncher.cod
+RIM-COD-Size: 3012
+RIM-COD-Creation-Time: 1422801426
+RIM-COD-Module-Name: Ramolauncher
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser
+RIM-COD-SHA1: e6 0f d0 95 65 3f b0 8c a8 e2 7e 41 63 5b 03 c5 a1 d0 57 90
